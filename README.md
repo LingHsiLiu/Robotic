@@ -22,3 +22,13 @@ Created RS232 Transfer module, data analysis module, sensor receiver module, fla
 4. Flash access module: write, read and erase (chip erase or sector erase) function to control action execution module
 5. Action execution module: give instructions to servomotor execution module
 6. Servomotor execution module: transfer signal to servomotor
+
+
+
+what is your weekness ?
+if your teammate have issue, and your team project is delay the deadline ?
+what is your job goal and your motion ?
+database join
+sort and plus question 
+
+
